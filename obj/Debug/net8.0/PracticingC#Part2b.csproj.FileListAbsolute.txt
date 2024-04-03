@@ -1,0 +1,14 @@
+C:\Users\steph\source\repos\PracticingC#Part2b\PracticingC#Part2b\bin\Debug\net8.0\PracticingC#Part2b.exe
+C:\Users\steph\source\repos\PracticingC#Part2b\PracticingC#Part2b\bin\Debug\net8.0\PracticingC#Part2b.deps.json
+C:\Users\steph\source\repos\PracticingC#Part2b\PracticingC#Part2b\bin\Debug\net8.0\PracticingC#Part2b.runtimeconfig.json
+C:\Users\steph\source\repos\PracticingC#Part2b\PracticingC#Part2b\bin\Debug\net8.0\PracticingC#Part2b.dll
+C:\Users\steph\source\repos\PracticingC#Part2b\PracticingC#Part2b\bin\Debug\net8.0\PracticingC#Part2b.pdb
+C:\Users\steph\source\repos\PracticingC#Part2b\PracticingC#Part2b\obj\Debug\net8.0\PracticingC#Part2b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\PracticingC#Part2b\PracticingC#Part2b\obj\Debug\net8.0\PracticingC#Part2b.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\PracticingC#Part2b\PracticingC#Part2b\obj\Debug\net8.0\PracticingC#Part2b.AssemblyInfo.cs
+C:\Users\steph\source\repos\PracticingC#Part2b\PracticingC#Part2b\obj\Debug\net8.0\PracticingC#Part2b.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\PracticingC#Part2b\PracticingC#Part2b\obj\Debug\net8.0\PracticingC#Part2b.dll
+C:\Users\steph\source\repos\PracticingC#Part2b\PracticingC#Part2b\obj\Debug\net8.0\refint\PracticingC#Part2b.dll
+C:\Users\steph\source\repos\PracticingC#Part2b\PracticingC#Part2b\obj\Debug\net8.0\PracticingC#Part2b.pdb
+C:\Users\steph\source\repos\PracticingC#Part2b\PracticingC#Part2b\obj\Debug\net8.0\PracticingC#Part2b.genruntimeconfig.cache
+C:\Users\steph\source\repos\PracticingC#Part2b\PracticingC#Part2b\obj\Debug\net8.0\ref\PracticingC#Part2b.dll
